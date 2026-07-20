@@ -2,7 +2,13 @@
 
 ## 📌 Project Overview
 
-This project is an interactive Financial Analytics Dashboard developed using Microsoft Power BI. It helps analyze business performance by monitoring key financial metrics such as Sales, Profit, Cost, and Orders through interactive dashboards.
+This project is an interactive **Financial Analytics Dashboard** developed using **Microsoft Power BI**. It helps analyze business performance by monitoring key financial metrics such as **Sales, Profit, Cost, and Orders** through interactive dashboards.
+
+---
+
+## 📸 Dashboard Preview
+
+![Financial Analytics Dashboard](Financial%20Analytics%20Dashboard.png)
 
 ---
 
@@ -16,7 +22,7 @@ The objective of this dashboard is to provide meaningful financial insights that
 
 - Microsoft Power BI
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
 ---
@@ -30,10 +36,12 @@ The objective of this dashboard is to provide meaningful financial insights that
 - Interactive Slicers
 - Dynamic Charts
 - Business Insights
+- Responsive Dashboard Layout
+- Interactive Filtering
 
 ---
 
-## 📈 KPIs
+## 📈 Key Performance Indicators (KPIs)
 
 - Total Sales
 - Total Profit
@@ -51,22 +59,46 @@ The objective of this dashboard is to provide meaningful financial insights that
 - Data Modeling
 - DAX Measures
 - Dashboard Design
-- Business Intelligence
 - Data Visualization
+- Business Intelligence
+- Power Query
 
 ---
 
 ## 📂 Repository Contents
 
-- Financial_Analytics_Dashboard.pbix
-- Dashboard_Screenshot.png
-- Dataset.xlsx
+- 📊 Financial_Analytics_Dashboard.pbix
+- 🖼️ Financial Analytics Dashboard.png
+- 📄 Dataset.xlsx
+- 📝 DAX_Measures.md
+
+---
+
+## 🚀 Project Highlights
+
+✔ Interactive Financial Dashboard
+
+✔ KPI-Based Business Analysis
+
+✔ Dynamic Filtering using Slicers
+
+✔ Professional Dashboard Design
+
+✔ Power Query Data Transformation
+
+✔ Custom DAX Measures
+
+✔ Business Performance Monitoring
 
 ---
 
 ## 👩 Author
 
-**Bowliya Mary**
+**Bowliya Mary**  
+Aspiring Data Analyst
 
-- LinkedIn: https://linkedin.com/in/bowliya-mary-2471a2182
-- GitHub: https://github.com/bowliyamaryr
+📧 Email: bowliyamaryr@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/bowliya-mary-2471a2182
+
+💻 GitHub: https://github.com/bowliyamaryr
