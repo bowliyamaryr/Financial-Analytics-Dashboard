@@ -2,13 +2,13 @@
 
 ## 📌 Project Overview
 
-This project is an interactive Financial Analytics Dashboard built in Microsoft Power BI to analyze business performance through key financial metrics and interactive visualizations.
+This project is an interactive Financial Analytics Dashboard developed using Microsoft Power BI. It helps analyze business performance by monitoring key financial metrics such as Sales, Profit, Cost, and Orders through interactive dashboards.
 
 ---
 
 ## 🎯 Project Objective
 
-To provide business users with a comprehensive view of financial performance by analyzing sales, profit, cost, and customer insights, enabling better business decisions.
+The objective of this dashboard is to provide meaningful financial insights that support better business decisions by presenting KPIs and trends in a clear and interactive way.
 
 ---
 
@@ -21,20 +21,19 @@ To provide business users with a comprehensive view of financial performance by 
 
 ---
 
-## 📈 Dashboard Features
+## 📊 Dashboard Features
 
 - KPI Cards
 - Sales Analysis
 - Profit Analysis
 - Cost Analysis
 - Interactive Slicers
-- Drill-through Analysis
 - Dynamic Charts
 - Business Insights
 
 ---
 
-## 📊 KPIs
+## 📈 KPIs
 
 - Total Sales
 - Total Profit
@@ -52,14 +51,16 @@ To provide business users with a comprehensive view of financial performance by 
 - Data Modeling
 - DAX Measures
 - Dashboard Design
-- Data Visualization
 - Business Intelligence
+- Data Visualization
 
 ---
 
-## 📸 Dashboard Preview
+## 📂 Repository Contents
 
-*A dashboard screenshot will be added here.*
+- Financial_Analytics_Dashboard.pbix
+- Dashboard_Screenshot.png
+- Dataset.xlsx
 
 ---
 
