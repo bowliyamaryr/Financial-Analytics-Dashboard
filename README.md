@@ -10,6 +10,8 @@ This project is an interactive **Financial Analytics Dashboard** developed using
 
 ![Financial Analytics Dashboard](Financial%20Analytics%20Dashboard.png)
 
+> *Interactive dashboard created using Microsoft Power BI.*
+
 ---
 
 ## 🎯 Project Objective
@@ -25,6 +27,14 @@ The objective of this dashboard is to provide meaningful financial insights that
 - DAX (Data Analysis Expressions)
 - Microsoft Excel
 
+---
+
+## 📂 Dataset
+
+- Source: Financial Sales Dataset
+- Format: Microsoft Excel (.xlsx)
+- Records: 2,000 rows
+  
 ---
 
 ## 📊 Dashboard Features
@@ -52,6 +62,29 @@ The objective of this dashboard is to provide meaningful financial insights that
 
 ---
 
+## 📊 Business Insights
+
+This dashboard enables users to:
+
+- Monitor overall financial performance.
+- Compare sales and profit trends.
+- Identify high-performing categories.
+- Track cost and profitability.
+- Support business decision-making through interactive visualizations.
+
+---  
+
+## 💼 Business Value
+
+This dashboard helps business users:
+
+- Monitor financial performance in real time.
+- Identify profitable products and categories.
+- Track sales trends and cost variations.
+- Support strategic business decision-making through interactive reports.
+
+  ---  
+
 ## 📚 Skills Demonstrated
 
 - Data Cleaning
@@ -65,6 +98,15 @@ The objective of this dashboard is to provide meaningful financial insights that
 
 ---
 
+## ▶️ How to Use
+
+1. Download the `.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Refresh the dataset if required.
+4. Interact with slicers and visuals to explore the dashboard.
+
+ ---
+ 
 ## 📂 Repository Contents
 
 - 📊 Financial_Analytics_Dashboard.pbix
@@ -76,19 +118,13 @@ The objective of this dashboard is to provide meaningful financial insights that
 
 ## 🚀 Project Highlights
 
-✔ Interactive Financial Dashboard
-
-✔ KPI-Based Business Analysis
-
-✔ Dynamic Filtering using Slicers
-
-✔ Professional Dashboard Design
-
-✔ Power Query Data Transformation
-
-✔ Custom DAX Measures
-
-✔ Business Performance Monitoring
+- Interactive Financial Dashboard
+- KPI-Based Business Analysis
+- Dynamic Filtering using Slicers
+- Professional Dashboard Design
+- Power Query Data Transformation
+- Custom DAX Measures
+- Business Performance Monitoring
 
 ---
 
