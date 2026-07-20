@@ -109,9 +109,9 @@ This dashboard helps business users:
  
 ## 📂 Repository Contents
 
-- 📊 Financial_Analytics_Dashboard.pbix
+- 📊 Financial Analytical Dashboard.pbix
 - 🖼️ Financial Analytics Dashboard.png
-- 📄 Dataset.xlsx
+- 📄 Financial Analytical dataset.xlsx
 - 📝 DAX_Measures.md
 
 ---
